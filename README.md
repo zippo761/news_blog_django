@@ -17,7 +17,3 @@ $ python manage.py migrate
 ```
 $ python manage.py runserver
 ```
-
-
-# Attention:
-### Welcome, daily, weekly email send only in test.
